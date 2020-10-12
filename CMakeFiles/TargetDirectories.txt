@@ -1,0 +1,4 @@
+/Users/anasva/projectForLab2AK/projectForLab2AK/CMakeFiles/rebuild_cache.dir
+/Users/anasva/projectForLab2AK/projectForLab2AK/CMakeFiles/edit_cache.dir
+/Users/anasva/projectForLab2AK/projectForLab2AK/CMakeFiles/ProjectForAKl2.dir
+/Users/anasva/projectForLab2AK/projectForLab2AK/CMakeFiles/libraryCalc.dir

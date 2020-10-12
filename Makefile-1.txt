@@ -1,2 +1,0 @@
-all:
-	g++ -o result calculator.cpp calculator.h file1.cpp
