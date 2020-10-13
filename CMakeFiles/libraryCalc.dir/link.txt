@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc liblibraryCalc.a CMakeFiles/libraryCalc.dir/calculator.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib liblibraryCalc.a

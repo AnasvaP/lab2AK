@@ -1,0 +1,5 @@
+# ninja log v5
+0	85	1602574851826916131	CMakeFiles/libraryCalc.dir/calculator.cpp.o	6f74d0257c286189
+85	162	1602574851908561000	liblibraryCalc.a	80e88cd1f9b35645
+0	1018	1602574852756984732	CMakeFiles/ProjectForAKl2.dir/file1.cpp.o	7635ea13c4e9b23c
+1019	1085	1602574852830120456	ProjectForAKl2	cd2d5c2d56c9a32a
